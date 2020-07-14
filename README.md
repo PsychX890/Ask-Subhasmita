@@ -1,4 +1,4 @@
-### Hi, my name is Subhasmita aka subh117x👋
+### Heya👋
 [![twitter badge](https://img.shields.io/badge/subh117x-2B3856?style=flat&logo=twitter)](https://twitter.com/subh117x)
 [![linkedin badge](https://img.shields.io/badge/Subhasmita_Swain-493D26?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhasmita-swain-a369a11aa/)
 [![gmail badge](https://img.shields.io/badge/Subhasmita-F9A7B0?style=flat&logo=gmail)](subhasmitaswain232@gmail.com)
