@@ -9,8 +9,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Benign or Malignant mamogram detection using supervised Machine Learning.
-- 🌱 I’m currently learning Javascript.
+- 🔭 I’m currently working on problem solving skills.
+- 🌱 I’m currently learning Javascript and DSA.
 - 👯 I’m looking to collaborate on Hackathon and projects.
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about anything, i'll try my best to help :hand:
