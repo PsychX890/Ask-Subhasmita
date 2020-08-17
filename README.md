@@ -14,6 +14,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Hackathon and projects.
 - 🤔 I’m looking for help with Open Source.
 - 💬 Ask me about anything, i'll try my best to help :hand:
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I'm a painter, a pianist, a writer and a coffeeholic :alien:
 
