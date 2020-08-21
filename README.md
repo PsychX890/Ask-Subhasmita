@@ -4,7 +4,7 @@
 [![gmail badge](https://img.shields.io/badge/Subhasmita-F9A7B0?style=flat&logo=gmail)](subhasmitaswain232@gmail.com)
 <!--![](https://raw.githubusercontent.com/Ask-Subhasmita/Ask-Subhasmita/27dd9a8e6d55abfb5929ddb2158e6c666a271d5b/cover_pic.png)-->
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src="https://github.com/Ask-Subhasmita/Ask-Subhasmita/blob/master/gifs/animation_500_ke4cgngp.gif" />
 
 - 🔭 I’m currently working on problem solving skills.
 - 🌱 I’m currently learning  and DSA.
